@@ -5,8 +5,17 @@
 }
 
 body{
-    background: rgb(199, 199, 199);
+    margin: 0;
 }
+
+.background-image{
+    position: relative;
+    height: 100%;
+    width: 100%;
+    background-image: url(./Imagens/background-black-texture.jpg);
+    background-size: cover;
+}
+
 
 header{
     font-family: 'Monoton', cursive;
